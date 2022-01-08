@@ -26,12 +26,10 @@ top: 80%;
 
 
 #pdf2{
-	position: absolute;
-	display: block;
+	
 	width: 90px;
 	height: 90px;
-	right: 12%;
-	top: 20%;
+	
 }
 h1, h2, h3 {
 	margin: 0;
